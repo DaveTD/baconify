@@ -1,0 +1,26 @@
+---
+buzzwords: ! 'data: {"items":[{"label":"Exit strategy","value":3},{"label":"Synergy","value":1},{"label":"Leverage","value":1},{"label":"Turn-key","value":3},{"label":"Paradigm
+  shift","value":1},{"label":"Pivoting","value":1},{"label":"Web 2.0","value":1}],"id":"buzzwords","updatedAt":1379540927}
+
+
+'
+valuation: ! 'data: {"current":85,"last":12,"id":"valuation","updatedAt":1379540927}
+
+
+'
+karma: ! 'data: {"current":84009,"last":148542,"id":"karma","updatedAt":1379540927}
+
+
+'
+synergy: ! 'data: {"value":35,"id":"synergy","updatedAt":1379540927}
+
+
+'
+convergence: ! 'data: {"points":[{"x":12,"y":18},{"x":13,"y":27},{"x":14,"y":48},{"x":15,"y":36},{"x":16,"y":18},{"x":17,"y":40},{"x":18,"y":38},{"x":19,"y":37},{"x":20,"y":43},{"x":21,"y":46}],"id":"convergence","updatedAt":1379540927}
+
+
+'
+baconify: ! 'data: {"value":"debacon","id":"baconify","updatedAt":1379540700}
+
+
+'
