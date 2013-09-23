@@ -1,4 +1,4 @@
-SCHEDULER.cron '0 12 * * 1-5'do 
+SCHEDULER.cron '0 12 * * 1-5' do 
 	# Every day at noon...
 	baconify()
 end
